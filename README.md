@@ -6,9 +6,6 @@
 - 📊 I’m currently working on Data
 - 🐍 I’m currently learning Python and Cloud
 - 👯 I’m looking to collaborate on Python and Cloud
-- 🤔 I’m looking for help with code
-- 💬 Ask me about ... comunication.. haha
-- 😄 Pronouns: she/her
 - 👩🏼‍🎤 Fun fact: yep, I used to be a theater actress when I was younger
 
 
