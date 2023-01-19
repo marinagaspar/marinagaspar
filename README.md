@@ -4,8 +4,8 @@
 </n>
 
 - 📊 I’m currently working on Data
-- 🐍 I’m currently learning Python and Cloud
-- 👯 I’m looking to collaborate on Python and Cloud
+- 🐍 I’m currently learning Python | Google Cloud | SQL
+- 👯 I’m looking to collaborate on Python | Google Cloud | SQL
 - 👩🏼‍🎤 Fun fact: yep, I used to be a theater actress when I was younger
 
 
